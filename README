@@ -1,17 +1,24 @@
 
 README for GPS_Navi
 
-AUTHORSHIP:
+AUTHORSHIP: 
         Created by: Lisa Fukushima
                 on: June 17, 2014
 
+(who wrote the program and any usage restrictions)
+
 PURPOSE:
+(what the program does and what features it provides)
 
 FILES:
+(the files that make up the program and a brief description of each)
 
 COMPILATION:
+(how to compile the program --> create a Makefile?)
 
 IMPLEMENTATION:
+(a description of non-trivial aspects of how the program is implemented,
+ e.g. what algorithms and data structures are used, references, etc.)
 
 MOD HISTORY:
         o June 17, 2014
