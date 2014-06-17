@@ -20,6 +20,19 @@ IMPLEMENTATION:
 (a description of non-trivial aspects of how the program is implemented,
  e.g. what algorithms and data structures are used, references, etc.)
 
+        NOTES:
+                - signed decimal degrees and radians
+                - great-circle navigational system
+
+        REFERENCES:
+                - http://www.movable-type.co.uk/scripts/latlong.html
+                - http://www.cs.nyu.edu/visual/home/proj/tiger/gisfaq.html
+                - http://en.wikipedia.org/wiki/Great-circle_distance
+                - http://en.wikipedia.org/wiki/Great-circle_navigation
+                - http://science.howstuffworks.com/innovation/science-
+                  questions/question79.htm
+                - 
+
 MOD HISTORY:
         o June 17, 2014
                 - created .cpp and .h files
