@@ -13,24 +13,40 @@
 class GPS_Navi {
 
         public:
-                //getters
+                // constructor
+                GPS_Navi();
 
-                //setters
+                // getters
+                double getLat1();
+                double getLon1();
+                
+                double getLat2();
+                double getLon2();
 
-                //conversion function(s)
-                //decimal degrees to radians
-                //radians to decimal degrees
-                //nautical miles
+                double getD_Lat();
+                double getD_Lon();
 
-                //distance function
+                // setters
+                void setLat1(double lat1);
+                void setLon1(double lon2);
+                
+                void setLat2(double lat2);
+                void setLon2(double lon2);
 
-                //bearing function
+                // conversion function(s)
+                // decimal degrees to radians
+                // radians to decimal degrees
+                // nautical miles
 
-                //deviation function
+                // distance function
+
+                // bearing function
+
+                // deviation function
 
         private:
-                double lat1, lat2, lon1, lon2, d_lat, d_lon;
-                const int radius = 21600/(2 * M_PI);
+                double lat1, lat2, lon1, lon2;
+                static const double radius = 21600 / (2 * M_PI);
 
 };
 
