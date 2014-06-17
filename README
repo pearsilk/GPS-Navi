@@ -23,6 +23,7 @@ IMPLEMENTATION:
         NOTES:
                 - signed decimal degrees and radians
                 - great-circle navigational system
+                - use 3D vectors?
 
         REFERENCES:
                 - http://www.movable-type.co.uk/scripts/latlong.html
