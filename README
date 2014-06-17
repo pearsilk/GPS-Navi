@@ -31,9 +31,10 @@ IMPLEMENTATION:
                 - http://en.wikipedia.org/wiki/Great-circle_navigation
                 - http://science.howstuffworks.com/innovation/science-
                   questions/question79.htm
-                - 
 
 MOD HISTORY:
         o June 17, 2014
-                - created .cpp and .h files
+                - created .cpp, .h, README, Makefile, and test.cpp files
+                - added constructor
+                - added getter and setter functions
 
